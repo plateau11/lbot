@@ -4,8 +4,8 @@ This year’s model introduces AI-powered cameras
 and better battery life.
 
 ===IMAGES===
-https://share.google/images/8fctyr849jKMSDEn6
-https://share.google/images/PLLhU7mXay7JjfTJY
+https://cdn.mos.cms.futurecdn.net/kkSTTggcQ8m8rwC6SfTq29.jpg
+https://helios-i.mashable.com/imagery/articles/00Wm6u01yxDVbXSEYTKOgHd/images-2.fill.size_2000x1125.v1757445869.png
 ===POST_END===
 
 ===POST_START===
@@ -14,7 +14,7 @@ Docs will now auto-summarize long documents
 and provide smart collaboration hints.
 
 ===IMAGES===
-https://share.google/images/BYtGd58AZTX5Ak6h1
+https://www.techmonitor.ai/wp-content/uploads/sites/29/2017/02/shutterstock_552493561.webp
 ===POST_END===
 
 ===POST_START===
@@ -22,5 +22,5 @@ OpenAI releases new GPT-5 model 🤖
 It’s faster, more aligned, and better at reasoning.
 
 ===IMAGES===
-https://share.google/images/B0pnFmRg2rATiSl32
+https://www.logicgate.com/wp-content/smush-webp/plt-openai-01-hero-01.png.webp
 ===POST_END===
