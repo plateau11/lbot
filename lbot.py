@@ -7,8 +7,8 @@ import time
 # ------------------------
 # CONFIG
 # ------------------------
-ACCESS_TOKEN = "AQV2UUjkIU4d_V6fgXclh3_8mHQMsJkLiXXtYAMrcLsE_TN6D9c6pV-teo4DY7MJig6g6QgECzhiSO6hH30TLYk8Lj97v7-TCDBHUtDqONa5y9qhIwUIKX_2S-OettNRw-EzrT5Kr71veMKEaDxGk6ZySdFAqTYZQfinNCbC2eUkhZLwN3daH1CRG40IgFakWYRdsd5SEZplJJdx63JEX3BrYUUp1GMUNO4h9-nj1QqYV39n-U3pGc3NhFWO_ys0mv99FVPCmDpGxz7HpDJcGOb7qF5z5JSYm-cUUOocis5MhroNDeslFVoqu8-XPtZkoEXnwbAb-Vyl54QVft0ViSuwsSvnUg"
-PERSON_URN = "urn:li:person:5jvyxmJDZN"  # put your LinkedIn access token here
+ACCESS_TOKEN = "zrT5Kr71veMKEaDxGk6ZySdFAqTYZQfinNCbC2eUkhZLwN3daH1CRG40IgFakWYRdsd5SEZplJJdx63JEX3BrYUUp1GMUNO4h9-nj1QqYV39n-U3pGc3NhFWO_ys0mv99FVPCmDpGxz7HpDJcGOb7qF5z5JSYm-cUUOocis5MhroNDeslFVoqu8-XPtZkoEXnwbAb-Vyl54QVft0ViSuwsSvnUg"
+PERSON_URN = "urn:li:person:5jDZN"  # put your LinkedIn access token here
 POSTS_URL = "https://raw.githubusercontent.com/plateau11/lbot/main/posts.txt"
 TRACK_FILE = "posted.json"
 POSTS_PER_DAY = 3
