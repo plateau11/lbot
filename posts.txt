@@ -1,25 +1,187 @@
 ===POST_START===
-Apple launches iPhone 17 🚀
-This year’s model introduces AI-powered cameras
-and better battery life.
+===ID=== 1
+✨ **Check out Coyote: The App That Gives You Control Back**
+
+Coyote is designed to help you protect your most important files 📁 with complete privacy and security.  
+The app uses secure passkeys and strong encryption of the highest standards to ensure your data remains safe.  
+
+Whether it’s documents, images, or sensitive notes, Coyote keeps everything protected from unauthorized access.  
+Its intuitive interface makes managing and encrypting your files effortless, giving you peace of mind.  
+
+Take back control of your digital life and enjoy the freedom of secure file management.  
+🥰 Explore all the features today and experience how simple and powerful privacy can be.
+
+Check it out here: https://play.google.com/store/apps/details?id=velocity.labs.coyote
+
+#CoyoteApp #Privacy #DataSecurity #Encryption #FileProtection #SecureFiles #DigitalSafety #AppLaunch
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/11.webp
+https://raw.githubusercontent.com/plateau11/lbot/main/images/1.png
 ===POST_END===
 
 ===POST_START===
-Google unveils AI-powered Docs upgrade ✨
-Docs will now auto-summarize long documents
-and provide smart collaboration hints.
+===ID=== 2
+🌐 **US-UK Forge $350B Tech Alliance to Lead AI, Quantum, and Nuclear Innovation**
+
+In a historic agreement, the United States and the United Kingdom have joined forces with a $350 billion Technology Prosperity Deal.  
+The initiative aims to accelerate advancements in artificial intelligence, quantum computing, and civil nuclear energy.  
+
+Signed by President Donald Trump and UK Prime Minister Keir Starmer, this deal will create over 17,000 high-tech jobs.  
+Major tech companies including Nvidia, OpenAI, and Google are investing in collaborative projects to push innovation forward.  
+
+The partnership plans to build 12 advanced nuclear reactors in Northern England, which will power 1.5 million homes with clean energy.  
+It also strengthens research collaborations on AI and quantum computing, aiming to position both nations as global leaders in technology.  
+
+This agreement highlights the importance of international cooperation in driving innovation, energy independence, and economic growth.  
+It’s a bold step toward a sustainable, technologically advanced future.
+
+#AI #QuantumComputing #NuclearEnergy #TechAlliance #Innovation #USUKPartnership #FutureOfTech
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/21.webp
+https://raw.githubusercontent.com/plateau11/lbot/main/images/tech_alliance_2025.jpg
 ===POST_END===
 
 ===POST_START===
-OpenAI releases new GPT-5 model 🤖
-It’s faster, more aligned, and better at reasoning.
+===ID=== 3
+🤖 **Meta's Smart Glasses: The Future of AI Interaction**
+
+Meta Platforms has unveiled its newest innovation: the "Meta Ray-Ban Display" smart glasses.  
+Developed with Ray-Ban and EssilorLuxottica, these glasses combine fashion and cutting-edge technology.  
+
+The glasses feature a built-in screen in one lens and are controlled via a Neural Band wristband.  
+Users can send and receive messages, view images, and interact with content using subtle hand gestures.  
+All of this happens without needing to reach for a smartphone, creating a seamless digital experience.  
+
+Priced at $799, the Meta Ray-Ban Display is more than a gadget—it’s a glimpse into the future of wearable AI technology.  
+It’s designed to integrate naturally into daily life, blending utility, convenience, and style.  
+
+Early adopters call this the start of a new era in personal computing.  
+Meta is positioning itself at the forefront of wearable innovation and human-computer interaction.
+
+#SmartGlasses #AI #WearableTech #Meta #Innovation #FutureOfComputing #NeuralInterface
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/31.webp
+https://raw.githubusercontent.com/plateau11/lbot/main/images/meta_smart_glasses.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 4
+🌊 **Ocean Transparency Threatens Submarine Stealth: AUKUS Under Pressure**
+
+Emerging technologies are reshaping underwater defense.  
+Quantum sensors, AI-driven sonar, and seabed magnetometers are making oceans increasingly “transparent.”  
+
+This transparency is challenging the stealth capabilities of nuclear submarines, including Australia’s planned A$368 billion AUKUS fleet.  
+Experts warn that without significant advancements in counter-detection technology, submarines could become vulnerable to detection.  
+
+The implications for national security are profound.  
+Naval strategies may need to be rethought, and substantial investments in next-generation stealth and autonomous underwater systems are required.  
+
+This situation underscores a technological arms race beneath the ocean’s surface.  
+Innovation in underwater defense will determine which nations maintain strategic advantages in the decades ahead.
+
+#DefenseTech #SubmarineStealth #AUKUS #QuantumSensors #AI #NationalSecurity #FutureOfWarfare
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/submarine_detection_2025.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 5
+🧠 **Agentic AI: The Rise of Autonomous Digital Workers**
+
+Agentic AI refers to software programs designed to make decisions and take actions to achieve specific objectives autonomously.  
+These systems combine various AI techniques, including memory, planning, environmental sensing, tool usage, and adherence to safety guidelines.  
+
+Their operation enables them to carry out tasks independently, achieving goals without human intervention.  
+This advancement marks a significant shift in how AI can be utilized across industries, from customer service to complex problem-solving.  
+
+As agentic AI continues to evolve, its potential applications are vast and transformative.  
+It represents a leap toward more intelligent and autonomous digital systems.
+
+#AgenticAI #ArtificialIntelligence #Automation #DigitalWorkers #Innovation #FutureOfWork
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/agentic_ai_2025.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 6
+🧬 **Quantum Computing: From Concept to Reality in 2025**
+
+2025 has been declared the International Year of Quantum Science and Technology by the United Nations.  
+This designation reflects the transformative impact quantum mechanics has had and sets the stage for the next wave of quantum innovation.  
+
+Advancements in quantum computing, communication, and sensing are accelerating.  
+Companies like Rigetti Computing and IonQ are leading the way with significant contracts and partnerships.  
+
+The potential applications of quantum technology are vast, including breakthroughs in cryptography, materials science, and complex system simulations.  
+As we move further into 2025, the quantum revolution is poised to reshape industries and societies.
+
+#QuantumComputing #QuantumTechnology #Innovation #FutureOfTech #QuantumRevolution
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/quantum_computing_2025.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 7
+🌐 **Google Injects Gemini Into Chrome as AI Browsers Go Mainstream**
+
+Google has integrated its Gemini generative AI into the Chrome browser, signaling a major step toward mainstream AI-driven browsing.  
+The most prominent feature is a Gemini chatbot button added to the browser, allowing users to query and synthesize information across open tabs.  
+
+Initially introduced to paid subscribers in May, these features are now available to all Chrome users in the U.S. on desktop using English, with mobile integration already live for Android and iOS updates on the way.  
+
+Gemini's features include AI-assisted search, research, and task completion, with upcoming "agentic" capabilities like automating online tasks such as grocery orders.  
+Google also plans to embed "AI Mode" in Chrome's Omnibox (address bar), enabling context-aware AI prompts.  
+
+While Chrome remains the dominant browser, 2025 has seen AI features spread to many competitors, including AI-focused browsers like Dia, Comet, and rumored offerings from OpenAI.  
+Gemini's integration into Chrome marks a defining shift in AI browser adoption, bringing these tools to millions who may never have explored them otherwise.
+
+#GoogleGemini #AI #Chrome #WebBrowsers #Innovation #TechTrends
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/google_gemini_chrome.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 8
+🧠 **Meta Wants Its Glasses, Not Phones, to Be Your Tool for Using AI Technology**
+
+Meta Platforms has introduced its newest innovation, the "Meta Ray-Ban Display" smart glasses, at its annual developer conference.  
+CEO Mark Zuckerberg showcased the glasses, highlighting their potential as a primary interface for AI interaction.  
+
+The new glasses, developed in collaboration with Ray-Ban and EssilorLuxottica, feature a built-in screen in one lens and are controlled via a Neural Band wristband using subtle hand movements.  
+They allow users to discreetly send and receive messages, images, and videos across Meta’s platforms like WhatsApp without a phone.  
+
+Wall Street analysts responded positively, with Citi describing the product as a "natural extension" of AI integration.  
+Priced at $799 for the set, the glasses will be available starting September 30.  
+
+Analysts from JPMorgan and HSBC noted that Meta's investment in AI and the metaverse positions it strongly, though competitors like Apple, Samsung, and Amazon are also planning similar launches by 2027.  
+The product aims to enhance user engagement and monetization as part of Meta's strategic roadmap into the AI-driven future of internet interaction.
+
+#Meta #SmartGlasses #AI #WearableTech #Innovation #FutureOfComputing #NeuralInterface
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/meta_glasses_ai.jpg
+===POST_END===
+
+===POST_START===
+===ID=== 9
+🧠 **The Rise of Autonomous Systems in 2025**
+
+Autonomous systems, including physical robots and digital agents, are moving from pilot projects to practical applications.  
+These systems aren’t just executing tasks; they’re starting to learn, adapt, and collaborate.  
+
+Autonomy is moving toward broad deployment, whether through coordinating last-mile logistics, navigating dynamic environments, or acting as virtual coworkers, among other skills.  
+This shift represents a significant evolution in how machines interact with the world and humans.  
+
+As these systems become more integrated into various sectors, from healthcare to transportation, their impact is expected to be profound.  
+The rise of autonomous systems marks a new era in technological advancement and human-machine collaboration.
+
+#AutonomousSystems #AI #Robotics #Innovation #FutureOfWork #TechTrends
+
+===IMAGES===
+https://raw.githubusercontent.com/plateau11/lbot/main/images/autonomous_systems_2025.jpg
 ===POST_END===
