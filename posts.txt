@@ -38,7 +38,7 @@ It’s a bold step toward a sustainable, technologically advanced future.
 #AI #QuantumComputing #NuclearEnergy #TechAlliance #Innovation #USUKPartnership #FutureOfTech
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/tech_alliance_2025.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/2.jpg
 ===POST_END===
 
 ===POST_START===
@@ -61,7 +61,7 @@ Meta is positioning itself at the forefront of wearable innovation and human-com
 #SmartGlasses #AI #WearableTech #Meta #Innovation #FutureOfComputing #NeuralInterface
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/meta_smart_glasses.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/3.webp
 ===POST_END===
 
 ===POST_START===
@@ -83,7 +83,7 @@ Innovation in underwater defense will determine which nations maintain strategic
 #DefenseTech #SubmarineStealth #AUKUS #QuantumSensors #AI #NationalSecurity #FutureOfWarfare
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/submarine_detection_2025.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/4.jpg
 ===POST_END===
 
 ===POST_START===
