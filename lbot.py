@@ -3,15 +3,18 @@ import os
 import requests
 from datetime import date
 import time
+from dotenv import load_dotenv
 
 # ------------------------
 # CONFIG
 # ------------------------
-ACCESS_TOKEN = "AQV2UUjkIU4d_V6fgXclh3_8mHQMsJkHUtDqONa5y9qhIwUIKX_2S-OettNRw-EzrT5Kr71veMKEaDxGk6ZySdFAMUNO4h9-nj1QqYV39n-U3pGc3NhFWO_ys0mv99FVPCmDpGxz7HpDJcGOb7qF5z5JSYm-cUUOocis5MhroNDeslFVoqu8-XPtZkoEXnwbAb-Vyl54QVft0ViSuwsSvnUg"
-PERSON_URN = "urn:li:person:5jZN"  # put your LinkedIn access token here
+# Load .env file
+load_dotenv()
+ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
+PERSON_URN = os.getenv("LINKEDIN_PERSON_URN")  # put your LinkedIn person URN here
 POSTS_URL = "https://raw.githubusercontent.com/plateau11/lbot/main/posts.txt"
 TRACK_FILE = "posted.json"
-POSTS_PER_DAY = 3
+POSTS_PER_DAY = 1
 
 
 # ------------------------
@@ -24,6 +27,7 @@ def fetch_posts_from_github():
 
     raw_posts = content.split("===POST_START===")
     posts = []
+    post_id = 0
 
     for raw in raw_posts:
         if "===POST_END===" in raw:
@@ -37,9 +41,22 @@ def fetch_posts_from_github():
                 images = []
 
             if text.strip():
-                posts.append({"text": text.strip(), "images": images})
+                post_id += 1
+                # Remove the ===ID=== line from the text
+                text_lines = text.strip().splitlines()
+                if text_lines[0].startswith("===ID==="):
+                    text_lines = text_lines[1:]
+                clean_text = "\n".join(text_lines).strip()
+
+                posts.append({
+                    "id": post_id,
+                    "id_line": f"===ID=== {post_id}",
+                    "text": clean_text,
+                    "images": images
+                })
 
     return posts
+
 
 
 # ------------------------
@@ -49,30 +66,39 @@ def load_tracking():
     if os.path.exists(TRACK_FILE):
         with open(TRACK_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {"last_date": None, "last_index": -1}
+    return {"last_date": None, "last_id_line": None}
 
 
-def save_tracking(tracking):
+def save_tracking(last_id):
+    tracking = {
+        "last_date": str(date.today()),
+        "last_id_line": f"===ID=== {last_id}"
+    }
     with open(TRACK_FILE, "w", encoding="utf-8") as f:
-        json.dump(tracking, f)
+        json.dump(tracking, f, indent=2)
 
 
 def get_todays_posts(posts):
     tracking = load_tracking()
     today = str(date.today())
 
-    if tracking["last_date"] == today:
-        start_index = tracking["last_index"] - POSTS_PER_DAY + 1
-        return posts[start_index:tracking["last_index"] + 1]
+    if tracking["last_id_line"]:
+        last_id = int(tracking["last_id_line"].split()[-1])
+    else:
+        last_id = 0
 
-    start_index = tracking["last_index"] + 1
-    end_index = start_index + POSTS_PER_DAY
-    todays_posts = posts[start_index:end_index]
+    if tracking["last_date"] == today:
+        # Already posted today → re-fetch same posts
+        start_id = last_id - POSTS_PER_DAY + 1
+        return [p for p in posts if start_id <= p["id"] <= last_id]
+
+    # Otherwise get next posts
+    start_id = last_id + 1
+    end_id = start_id + POSTS_PER_DAY - 1
+    todays_posts = [p for p in posts if start_id <= p["id"] <= end_id]
 
     if todays_posts:
-        tracking["last_date"] = today
-        tracking["last_index"] = end_index - 1
-        save_tracking(tracking)
+        save_tracking(todays_posts[-1]["id"])
 
     return todays_posts
 
@@ -161,6 +187,6 @@ if __name__ == "__main__":
         print("✅ No more posts left.")
     else:
         for post in todays_posts:
-            print("\nPublishing:", post["text"][:50], "...")
+            print("\nPublishing:", post["id_line"], post["text"][:50], "...")
             post_to_linkedin(post["text"], post["images"])
             time.sleep(30)
