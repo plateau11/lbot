@@ -123,7 +123,7 @@ It represents a leap toward more intelligent and autonomous digital systems.
 #AgenticAI #ArtificialIntelligence #Automation #DigitalWorkers #Innovation #FutureOfWork
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/6.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/6.jpeg
 ===POST_END===
 
 ===POST_START===
