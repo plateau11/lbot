@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/plateau11/lbot/main/images/4.jpg
 
 ===POST_START===
 ===ID=== 5
-✨ **Check out Coyote: The App That Gives You Control Back**
+✨ Check out Coyote: The App That Gives You Control Back
 
 Coyote is designed to help you protect your most important files 📁 with complete privacy and security.  
 The app uses secure passkeys and strong encryption of the highest standards to ensure your data remains safe.  
@@ -109,7 +109,7 @@ Check it out here: https://play.google.com/store/apps/details?id=velocity.labs.c
 
 ===POST_START===
 ===ID=== 6
-🧠 **Agentic AI: The Rise of Autonomous Digital Workers**
+🧠 Agentic AI: The Rise of Autonomous Digital Workers
 
 Agentic AI refers to software programs designed to make decisions and take actions to achieve specific objectives autonomously.  
 These systems combine various AI techniques, including memory, planning, environmental sensing, tool usage, and adherence to safety guidelines.  
@@ -128,7 +128,8 @@ https://raw.githubusercontent.com/plateau11/lbot/main/images/agentic_ai_2025.jpg
 
 ===POST_START===
 ===ID=== 7
-🧬 **Quantum Computing: From Concept to Reality in 2025**
+
+🧬 Quantum Computing: From Concept to Reality in 2025
 
 2025 has been declared the International Year of Quantum Science and Technology by the United Nations.  
 This designation reflects the transformative impact quantum mechanics has had and sets the stage for the next wave of quantum innovation.  
@@ -147,7 +148,7 @@ https://raw.githubusercontent.com/plateau11/lbot/main/images/quantum_computing_2
 
 ===POST_START===
 ===ID=== 8
-🌐 **Google Injects Gemini Into Chrome as AI Browsers Go Mainstream**
+🌐 Google Injects Gemini Into Chrome as AI Browsers Go Mainstream
 
 Google has integrated its Gemini generative AI into the Chrome browser, signaling a major step toward mainstream AI-driven browsing.  
 The most prominent feature is a Gemini chatbot button added to the browser, allowing users to query and synthesize information across open tabs.  
@@ -168,7 +169,8 @@ https://raw.githubusercontent.com/plateau11/lbot/main/images/google_gemini_chrom
 
 ===POST_START===
 ===ID=== 9
-🧠 **Meta Wants Its Glasses, Not Phones, to Be Your Tool for Using AI Technology**
+
+🧠 Meta Wants Its Glasses, Not Phones, to Be Your Tool for Using AI Technology
 
 Meta Platforms has introduced its newest innovation, the "Meta Ray-Ban Display" smart glasses, at its annual developer conference.  
 CEO Mark Zuckerberg showcased the glasses, highlighting their potential as a primary interface for AI interaction.  
@@ -190,7 +192,7 @@ https://raw.githubusercontent.com/plateau11/lbot/main/images/meta_glasses_ai.jpg
 
 ===POST_START===
 ===ID=== 10
-🧠 **The Rise of Autonomous Systems in 2025**
+🧠 The Rise of Autonomous Systems in 2025
 
 Autonomous systems, including physical robots and digital agents, are moving from pilot projects to practical applications.  
 These systems aren’t just executing tasks; they’re starting to learn, adapt, and collaborate.  
