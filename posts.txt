@@ -123,7 +123,7 @@ It represents a leap toward more intelligent and autonomous digital systems.
 #AgenticAI #ArtificialIntelligence #Automation #DigitalWorkers #Innovation #FutureOfWork
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/agentic_ai_2025.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/6.jpg
 ===POST_END===
 
 ===POST_START===
@@ -143,7 +143,7 @@ As we move further into 2025, the quantum revolution is poised to reshape indust
 #QuantumComputing #QuantumTechnology #Innovation #FutureOfTech #QuantumRevolution
 
 ===IMAGES===
-https://raw.githubusercontent.com/plateau11/lbot/main/images/quantum_computing_2025.jpg
+https://raw.githubusercontent.com/plateau11/lbot/main/images/7.jpg
 ===POST_END===
 
 ===POST_START===
